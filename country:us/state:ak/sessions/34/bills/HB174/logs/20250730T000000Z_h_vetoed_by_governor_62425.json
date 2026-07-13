@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "(H) VETOED BY GOVERNOR 6/24/25",
+    "occurred_at": "2025-07-30",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-veto"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB174",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB174#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB174"
+}

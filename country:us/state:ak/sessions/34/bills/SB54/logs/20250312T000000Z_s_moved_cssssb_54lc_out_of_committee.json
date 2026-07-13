@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(S) Moved CSSSSB 54(L&C) Out of Committee",
+    "occurred_at": "2025-03-12",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB54",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB54#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB54"
+}

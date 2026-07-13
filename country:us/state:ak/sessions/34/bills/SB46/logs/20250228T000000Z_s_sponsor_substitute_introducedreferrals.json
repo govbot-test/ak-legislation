@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(S) SPONSOR SUBSTITUTE INTRODUCED-REFERRALS",
+    "occurred_at": "2025-02-28",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB46",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB46#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB46"
+}

@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "(H) AM NO 2 ADOPTED UC",
+    "occurred_at": "2025-04-03",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB56",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB56#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB56"
+}

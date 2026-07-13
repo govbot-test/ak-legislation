@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y22 N17 E1 #1242",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-16",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "03954602-7dc7-11f1-9635-ce6f6e913f33",
+  "bill_action": null,
+  "bill_identifier": "SB50",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 22
+    },
+    {
+      "option": "no",
+      "value": 17
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=SB50&Page=01242#1242",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y38 E2 #1076",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-09",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "01d32faa-7dc7-11f1-9635-ce6f6e913f33",
+  "bill_action": null,
+  "bill_identifier": "HB194",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 38
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB194&Page=01076#1076",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

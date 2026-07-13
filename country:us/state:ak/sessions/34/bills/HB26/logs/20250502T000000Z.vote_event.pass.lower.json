@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y22 N17 E1 #997",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-02",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "ff12a6d8-7dc6-11f1-9635-ce6f6e913f33",
+  "bill_action": null,
+  "bill_identifier": "HB26",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 22
+    },
+    {
+      "option": "no",
+      "value": 17
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB26&Page=00997#0997",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

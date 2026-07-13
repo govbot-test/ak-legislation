@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) RESCIND ACTION (ADOPTED) RES CS PASSED Y21 N19 #1197",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-14",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "00ee0664-7dc7-11f1-9635-ce6f6e913f33",
+  "bill_action": null,
+  "bill_identifier": "HB125",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 21
+    },
+    {
+      "option": "no",
+      "value": 19
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB125&Page=01197#1197",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

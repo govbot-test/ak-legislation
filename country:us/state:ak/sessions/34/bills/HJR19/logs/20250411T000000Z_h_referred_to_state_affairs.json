@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "(H) REFERRED TO STATE AFFAIRS",
+    "occurred_at": "2025-04-11",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HJR19",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HJR19#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR19"
+}

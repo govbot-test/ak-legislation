@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(S) RULES TO CALENDAR 4/30/2025",
+    "occurred_at": "2025-04-30",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB86",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB86#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB86"
+}

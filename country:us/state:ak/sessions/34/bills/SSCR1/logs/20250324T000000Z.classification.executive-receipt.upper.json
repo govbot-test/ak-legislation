@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "(S) 11:35 A.M. 3/21/25 Transmitted to Governor",
+    "occurred_at": "2025-03-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SSCR1",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SSCR1#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SSCR1"
+}

@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(H) FINANCE at 08:30 AM ADAMS 519",
+    "occurred_at": "2025-03-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB53",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB53#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB53"
+}

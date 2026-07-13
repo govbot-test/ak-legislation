@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) AM NO 43 FAILED Y20 N20 #\r\n                                                    767",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-15",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "ff8b1834-7dc6-11f1-9635-ce6f6e913f33",
+  "bill_action": null,
+  "bill_identifier": "HB53",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 20
+    },
+    {
+      "option": "no",
+      "value": 20
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB53&Page=00767#AM43",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

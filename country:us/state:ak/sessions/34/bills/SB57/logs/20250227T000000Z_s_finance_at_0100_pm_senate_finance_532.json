@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(S) FINANCE at 01:00 PM SENATE FINANCE 532",
+    "occurred_at": "2025-02-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB57",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB57#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB57"
+}

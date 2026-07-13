@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y21 N19 #816",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-16",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "ff8b1834-7dc6-11f1-9635-ce6f6e913f33",
+  "bill_action": null,
+  "bill_identifier": "HB53",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 21
+    },
+    {
+      "option": "no",
+      "value": 19
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB53&Page=00816#0816",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

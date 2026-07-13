@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(H) NR: BYNUM, HANNAN, TOMASZEWSKI, JOSEPHSON, SCHRAGE",
+    "occurred_at": "2025-05-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB96",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB96#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB96"
+}

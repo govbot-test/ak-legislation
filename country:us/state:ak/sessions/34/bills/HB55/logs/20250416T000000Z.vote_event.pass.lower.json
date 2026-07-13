@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) AM NO 1 ADOPTED Y23 N17 #\r\n                                                    812",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-16",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "ffaff2ee-7dc6-11f1-9635-ce6f6e913f33",
+  "bill_action": null,
+  "bill_identifier": "HB55",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 23
+    },
+    {
+      "option": "no",
+      "value": 17
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB55&Page=00812#AM1",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

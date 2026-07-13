@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(H) Moved CSHB 191(RES) Out of Committee -- Delayed to 20 min. Following Session --",
+    "occurred_at": "2025-05-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB191",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB191#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB191"
+}

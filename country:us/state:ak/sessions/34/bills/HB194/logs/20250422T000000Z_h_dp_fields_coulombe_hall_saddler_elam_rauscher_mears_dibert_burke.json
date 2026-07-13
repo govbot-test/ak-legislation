@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(H) DP: FIELDS, COULOMBE, HALL, SADDLER, ELAM, RAUSCHER, MEARS, DIBERT, BURKE",
+    "occurred_at": "2025-04-22",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB194",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB194#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB194"
+}

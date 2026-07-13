@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(S) STA",
+    "occurred_at": "2025-05-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SR3",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SR3#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR3"
+}

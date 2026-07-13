@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(H) COSPONSOR(S): STAPP",
+    "occurred_at": "2025-05-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB202",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB202#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB202"
+}

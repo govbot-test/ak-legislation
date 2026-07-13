@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED ON RECONSIDERATION Y35 N5 #860",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-23",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "ffaff2ee-7dc6-11f1-9635-ce6f6e913f33",
+  "bill_action": null,
+  "bill_identifier": "HB55",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 35
+    },
+    {
+      "option": "no",
+      "value": 5
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB55&Page=00860#0860",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

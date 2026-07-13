@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y34 N5 E1 #1262",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-17",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "0191c718-7dc7-11f1-9635-ce6f6e913f33",
+  "bill_action": null,
+  "bill_identifier": "HB174",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 34
+    },
+    {
+      "option": "no",
+      "value": 5
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB174&Page=01262#1262",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

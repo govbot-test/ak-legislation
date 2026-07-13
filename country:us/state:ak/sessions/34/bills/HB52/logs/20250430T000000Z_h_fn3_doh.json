@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(H) FN3: (DOH)",
+    "occurred_at": "2025-04-30",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB52",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB52#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB52"
+}

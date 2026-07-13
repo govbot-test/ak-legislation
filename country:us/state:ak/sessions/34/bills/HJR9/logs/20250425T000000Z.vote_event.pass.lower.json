@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y27 N10 E3 #912",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-25",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "02827d0c-7dc7-11f1-9635-ce6f6e913f33",
+  "bill_action": null,
+  "bill_identifier": "HJR9",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 27
+    },
+    {
+      "option": "no",
+      "value": 10
+    },
+    {
+      "option": "other",
+      "value": 3
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HJR9&Page=00912#0912",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

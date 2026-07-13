@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(H) DP: FIELDS, HALL, MEARS, BURKE, DIBERT",
+    "occurred_at": "2025-05-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB29",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB29#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB29"
+}

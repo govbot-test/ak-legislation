@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(H) AM NO 2 OFFERED AND WITHDRAWN",
+    "occurred_at": "2025-03-31",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB15",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB15#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB15"
+}

@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y40 #1347",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-20",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "05bd3f2a-7dc7-11f1-9635-ce6f6e913f33",
+  "bill_action": null,
+  "bill_identifier": "SCR6",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 40
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=SCR6&Page=01347#1347",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

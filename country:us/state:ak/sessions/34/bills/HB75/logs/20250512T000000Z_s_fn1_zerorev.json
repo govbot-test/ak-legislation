@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(S) FN1: ZERO(REV)",
+    "occurred_at": "2025-05-12",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB75",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB75#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB75"
+}

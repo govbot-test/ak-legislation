@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(S) RESOURCES at 03:30 PM BUTROVICH 205",
+    "occurred_at": "2025-03-21",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB114",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB114#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB114"
+}

@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y38 A2 #1325",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-19",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "0253dce0-7dc7-11f1-9635-ce6f6e913f33",
+  "bill_action": null,
+  "bill_identifier": "HCR4",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 38
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HCR4&Page=01325#1325",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

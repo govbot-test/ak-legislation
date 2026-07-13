@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(S) STATE AFFAIRS at 10:00 AM BELTZ 105 (TSBldg)",
+    "occurred_at": "2025-05-17",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HJR13",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HJR13#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR13"
+}

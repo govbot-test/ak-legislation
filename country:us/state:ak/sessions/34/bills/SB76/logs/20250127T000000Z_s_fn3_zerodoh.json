@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(S) FN3: ZERO(DOH)",
+    "occurred_at": "2025-01-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB76",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB76#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB76"
+}

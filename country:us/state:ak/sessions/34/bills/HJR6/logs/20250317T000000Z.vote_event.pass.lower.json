@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y33 N6 E1 #480",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-17",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "02784c7e-7dc7-11f1-9635-ce6f6e913f33",
+  "bill_action": null,
+  "bill_identifier": "HJR6",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 33
+    },
+    {
+      "option": "no",
+      "value": 6
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HJR6&Page=00480#0480",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

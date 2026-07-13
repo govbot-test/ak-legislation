@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(H) FIN RPT 5DP 2NR 2AM",
+    "occurred_at": "2025-05-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB39",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB39#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB39"
+}

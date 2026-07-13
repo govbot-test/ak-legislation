@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "(S) ADVANCED TO THIRD READING 2/7 CAL",
+    "occurred_at": "2025-02-05",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HJR4",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HJR4#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR4"
+}

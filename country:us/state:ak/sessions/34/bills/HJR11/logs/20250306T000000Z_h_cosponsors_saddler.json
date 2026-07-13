@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(H) COSPONSOR(S): SADDLER",
+    "occurred_at": "2025-03-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HJR11",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HJR11#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR11"
+}

@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(S) RULES TO CALENDAR 5/14/2025",
+    "occurred_at": "2025-05-14",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB116",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB116#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB116"
+}

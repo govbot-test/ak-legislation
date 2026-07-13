@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "(H) READ THE SECOND TIME",
+    "occurred_at": "2025-05-13",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-2"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB125",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB125#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB125"
+}

@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(H) GOVERNOR'S TRANSMITTAL LETTER",
+    "occurred_at": "2025-02-14",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB106",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB106#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB106"
+}

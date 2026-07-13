@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(S) FN1: ZERO(LAW)",
+    "occurred_at": "2025-04-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB111",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB111#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB111"
+}

@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) GOVERNOR VETO SUSTAINED Y33 N27 #850",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-22",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "ffff9cf4-7dc6-11f1-9635-ce6f6e913f33",
+  "bill_action": null,
+  "bill_identifier": "HB69",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 33
+    },
+    {
+      "option": "no",
+      "value": 27
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB69&Page=00850#0850",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}
