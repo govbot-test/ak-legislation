@@ -54,6 +54,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:02:00Z"
       }
+    },
+    {
+      "description": "(H) COSPONSOR(S): ELAM",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:27Z"
+      }
     }
   ],
   "sponsorships": [
@@ -63,6 +73,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Moore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Elam",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Elam\"}",
       "organization_id": null
     }
   ],
@@ -104,7 +122,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:00Z",
+    "logs_latest_update": "2026-07-14T13:55:27Z",
     "text_extraction_latest_update": "2026-07-13T06:19:40.375148Z"
   }
 }

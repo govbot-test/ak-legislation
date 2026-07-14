@@ -69,6 +69,16 @@
       }
     },
     {
+      "description": "(S) Minutes (SHSS)",
+      "date": "2025-04-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:26Z"
+      }
+    },
+    {
       "description": "(S) HEALTH & SOCIAL SERVICES at 03:30 PM BUTROVICH 205",
       "date": "2025-04-03",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -89,6 +99,16 @@
       }
     },
     {
+      "description": "(S) Minutes (SHSS)",
+      "date": "2025-04-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:26Z"
+      }
+    },
+    {
       "description": "(S) HEALTH & SOCIAL SERVICES at 03:30 PM BUTROVICH 205",
       "date": "2025-04-15",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -106,6 +126,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:02:01Z"
+      }
+    },
+    {
+      "description": "(S) Minutes (SHSS)",
+      "date": "2025-04-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:26Z"
       }
     },
     {
@@ -346,6 +376,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:02:01Z"
+      }
+    },
+    {
+      "description": "(H) Minutes (HHSS)",
+      "date": "2025-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:26Z"
       }
     },
     {
@@ -659,7 +699,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:01Z",
+    "logs_latest_update": "2026-07-14T13:55:26Z",
     "text_extraction_latest_update": "2026-07-13T06:20:21.015526Z"
   }
 }

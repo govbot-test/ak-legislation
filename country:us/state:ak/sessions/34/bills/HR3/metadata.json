@@ -107,6 +107,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:01:59Z"
       }
+    },
+    {
+      "description": "(H) MEMBERS: RUFFRIDGE AND JOHNSON REPLACED TILTON AND RAUSCHER",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:27Z"
+      }
     }
   ],
   "sponsorships": [
@@ -172,7 +182,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:01:59Z",
+    "logs_latest_update": "2026-07-14T13:55:27Z",
     "text_extraction_latest_update": "2026-07-13T06:35:46.418318Z"
   }
 }

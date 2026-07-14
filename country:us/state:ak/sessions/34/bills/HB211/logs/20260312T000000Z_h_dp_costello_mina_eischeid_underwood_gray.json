@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(H) DP: COSTELLO, MINA, EISCHEID, UNDERWOOD, GRAY",
+    "occurred_at": "2026-03-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB211",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB211#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB211"
+}

@@ -138,6 +138,16 @@
       }
     },
     {
+      "description": "(S) Minutes (SRES)",
+      "date": "2025-03-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:26Z"
+      }
+    },
+    {
       "description": "(S) RESOURCES at 03:30 PM BUTROVICH 205",
       "date": "2025-03-28",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -155,6 +165,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:01:59Z"
+      }
+    },
+    {
+      "description": "(S) Minutes (SRES)",
+      "date": "2025-03-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:26Z"
       }
     },
     {
@@ -355,6 +375,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:01:59Z"
+      }
+    },
+    {
+      "description": "(S) Minutes (SFIN)",
+      "date": "2025-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:26Z"
       }
     },
     {
@@ -1390,7 +1420,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:01:59Z",
+    "logs_latest_update": "2026-07-14T13:55:26Z",
     "text_extraction_latest_update": "2026-07-13T06:31:10.844668Z"
   }
 }

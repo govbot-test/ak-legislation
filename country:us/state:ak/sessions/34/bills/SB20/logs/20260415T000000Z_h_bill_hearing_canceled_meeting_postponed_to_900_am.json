@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(H) <Bill Hearing Canceled> -- Meeting Postponed to 9:00 am --",
+    "occurred_at": "2026-04-15",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB20",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB20#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB20"
+}

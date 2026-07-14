@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "(H) 2:00 P.M. 6/25/26 Transmitted to Governor",
+    "occurred_at": "2026-07-03",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB14",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB14#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB14"
+}

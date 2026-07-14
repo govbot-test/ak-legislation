@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(S) JUD RPT CS 4DP 1NR TECHNICAL TITLE CHANGE",
+    "occurred_at": "2026-04-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB249",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB249#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB249"
+}

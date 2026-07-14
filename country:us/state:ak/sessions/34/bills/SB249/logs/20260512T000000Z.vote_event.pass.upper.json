@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(S) PASSED Y20 N- #2602",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-12",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "34",
+  "bill": "fe6e32d6-7f58-11f1-8cb7-3258ed82ccdb",
+  "bill_action": null,
+  "bill_identifier": "SB249",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 20
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=SB249&Page=02602#2602",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

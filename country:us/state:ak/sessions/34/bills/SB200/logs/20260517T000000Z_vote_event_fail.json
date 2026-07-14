@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) AM NO 5 FAILED Y20 N20 #\r\n                                                    2708",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-17",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "e8f52a9a-7f58-11f1-8cb7-3258ed82ccdb",
+  "bill_action": null,
+  "bill_identifier": "SB200",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 20
+    },
+    {
+      "option": "no",
+      "value": 20
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=SB200&Page=02708#AM5",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

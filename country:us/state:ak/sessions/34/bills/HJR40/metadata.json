@@ -1,0 +1,140 @@
+{
+  "legislative_session": "34",
+  "identifier": "HJR40",
+  "title": "Supporting the Alaska Statewide Comprehensive Economic Development Strategy 2022 - 2027; supporting public and private sector investment, economic opportunities, and development in the state; supporting the prioritization of healthy and sustainable wild food and renewable resources; encouraging the private and public sectors to collaborate on educating students about the state's economic reliance on sustainable resource development; and supporting payment of an annual dividend.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [
+    "AGRICULTURE",
+    "ALASKA NATIVES",
+    "BUSINESS",
+    "COMMUNICATIONS",
+    "CORPORATIONS",
+    "ECONOMIC DEVELOPMENT",
+    "ECONOMY",
+    "EDUCATION",
+    "EMPLOYMENT",
+    "ENERGY",
+    "ENVIRONMENTAL CONCERNS",
+    "EXECUTIVE BRANCH",
+    "FAMILIES",
+    "FISH & GAME (GAME)",
+    "FOOD",
+    "FORESTRY",
+    "HOUSING",
+    "HYDROELECTRIC PROJECTS",
+    "INTERGOVERNMENTAL RELATIONS",
+    "INVESTMENTS",
+    "LAND",
+    "LICENSING",
+    "MINERALS",
+    "MINING",
+    "MINORS",
+    "NATIVE ORGANIZATIONS",
+    "OIL & GAS",
+    "PERMANENT FUND",
+    "PIPELINES",
+    "RESOURCES",
+    "REVENUE",
+    "REVENUE SHARING",
+    "SCIENCE & TECHNOLOGY",
+    "TRANSPORTATION",
+    "UTILITIES",
+    "WATER"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ak-34-hjr40"
+    }
+  ],
+  "actions": [
+    {
+      "description": "(H) READ THE FIRST TIME - REFERRALS",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:27Z"
+      }
+    },
+    {
+      "description": "(H) RES, FIN",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:27Z"
+      }
+    },
+    {
+      "description": "(H) REFERRED TO RESOURCES",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:27Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schwanke",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Schwanke\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HJR 40",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/Bill/Text/34?Hsid=HJR040A",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.akleg.gov/PDF/34/Bills/HJR040A.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HJR40",
+      "note": ""
+    },
+    {
+      "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HJR40#tab5_4",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ak/government",
+    "name": "Alaska",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ak"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:55:27Z"
+  }
+}

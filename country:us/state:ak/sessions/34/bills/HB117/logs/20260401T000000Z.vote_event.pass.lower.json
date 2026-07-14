@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y39 E1 #2022",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-01",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "ec9e1572-7f57-11f1-8cb7-3258ed82ccdb",
+  "bill_action": null,
+  "bill_identifier": "HB117",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 39
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB117&Page=02022#2022",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y36 N3 E1 #2359",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-30",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "97623f10-7f58-11f1-8cb7-3258ed82ccdb",
+  "bill_action": null,
+  "bill_identifier": "SB40",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 36
+    },
+    {
+      "option": "no",
+      "value": 3
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=SB40&Page=02359#2359",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

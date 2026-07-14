@@ -207,6 +207,36 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:02:01Z"
       }
+    },
+    {
+      "description": "(H) STATE AFFAIRS at 03:15 PM GRUENBERG 120",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:26Z"
+      }
+    },
+    {
+      "description": "(H) Heard & Held",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:26Z"
+      }
+    },
+    {
+      "description": "(H) Minutes (HSTA)",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -239,10 +269,62 @@
   ],
   "documents": [
     {
+      "note": "HB 180 Fiscal Note DOA-DMV-02-04-2026",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=9446",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB 180 Fiscal Note DPS-AST-2-3-2026",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=9445",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "HB 180 Sectional Analysis version A 4.9.25",
       "links": [
         {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=9444",
+          "media_type": "pdf"
+        },
+        {
           "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=5657",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB 180 version A",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=9443",
+          "media_type": "pdf"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=5655",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB 180 Transmittal Letter House 04.08.25",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=9442",
           "media_type": "pdf"
         }
       ],
@@ -254,17 +336,6 @@
       "links": [
         {
           "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=5656",
-          "media_type": "pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "HB 180 version A",
-      "links": [
-        {
-          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=5655",
           "media_type": "pdf"
         }
       ],
@@ -302,7 +373,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:01Z",
+    "logs_latest_update": "2026-07-14T13:55:26Z",
     "text_extraction_latest_update": "2026-07-13T06:34:04.090756Z"
   }
 }

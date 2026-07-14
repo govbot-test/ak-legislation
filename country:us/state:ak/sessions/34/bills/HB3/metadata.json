@@ -68,14 +68,42 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:01:59Z"
       }
+    },
+    {
+      "description": "(H) PRIME SPONSOR CHANGED: G.NELSON REPLACED RAUSCHER",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:27Z"
+      }
+    },
+    {
+      "description": "(H) COSPONSOR(S): TOMASZEWSKI",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:27Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Rauscher",
+      "name": "G.Nelson",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"G.Nelson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rauscher",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Rauscher\"}",
       "organization_id": null
     },
@@ -118,6 +146,14 @@
       "primary": false,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Elam\"}",
       "organization_id": null
+    },
+    {
+      "name": "Tomaszewski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Tomaszewski\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -138,7 +174,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Sponsor Statement",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/get_documents.asp?session=34&docid=10043",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -158,7 +206,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:01:59Z",
+    "logs_latest_update": "2026-07-14T13:55:27Z",
     "text_extraction_latest_update": "2026-07-13T06:25:04.514450Z"
   }
 }

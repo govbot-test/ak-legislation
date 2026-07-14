@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) MOTION TO REFER TO JUDICIARY, UR 39(B) FAILED Y19 N20 E1 #1764",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-02",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "f03d798e-7f57-11f1-8cb7-3258ed82ccdb",
+  "bill_action": null,
+  "bill_identifier": "HB124",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 19
+    },
+    {
+      "option": "no",
+      "value": 20
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB124&Page=01764#1764",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

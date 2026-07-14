@@ -354,6 +354,16 @@
       }
     },
     {
+      "description": "(S) Minutes (SRES)",
+      "date": "2025-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:27Z"
+      }
+    },
+    {
       "description": "(S) CROSS SPONSOR(S): KAUFMAN, WIELECHOWSKI, HUGHES, MERRICK, BJORKMAN, KAWASAKI,",
       "date": "2025-05-02",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -391,6 +401,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:02:01Z"
+      }
+    },
+    {
+      "description": "(S) Minutes (SRES)",
+      "date": "2025-05-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:27Z"
       }
     },
     {
@@ -688,11 +708,11 @@
       "organization_id": null
     },
     {
-      "name": "Nelson",
+      "name": "D.Nelson",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Nelson\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"D.Nelson\"}",
       "organization_id": null
     },
     {
@@ -1073,7 +1093,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:01Z",
+    "logs_latest_update": "2026-07-14T13:55:27Z",
     "text_extraction_latest_update": "2026-07-13T06:17:54.597524Z"
   }
 }

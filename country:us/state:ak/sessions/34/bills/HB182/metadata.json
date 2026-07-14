@@ -73,6 +73,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HL&C)",
+      "date": "2025-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:26Z"
+      }
+    },
+    {
       "description": "(H) LABOR & COMMERCE at 03:15 PM BARNES 124",
       "date": "2025-05-05",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -90,6 +100,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:01:59Z"
+      }
+    },
+    {
+      "description": "(H) Minutes (HL&C)",
+      "date": "2025-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:26Z"
       }
     },
     {
@@ -276,7 +296,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:01:59Z",
+    "logs_latest_update": "2026-07-14T13:55:26Z",
     "text_extraction_latest_update": "2026-07-13T06:24:41.642972Z"
   }
 }

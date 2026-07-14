@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(S) PASSED Y16 N3 A1 #2667",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-15",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "34",
+  "bill": "430d6d5e-7f58-11f1-8cb7-3258ed82ccdb",
+  "bill_action": null,
+  "bill_identifier": "HB314",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 16
+    },
+    {
+      "option": "no",
+      "value": 3
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=HB314&Page=02667#2667",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

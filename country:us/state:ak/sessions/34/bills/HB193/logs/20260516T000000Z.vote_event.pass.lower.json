@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) DEADLINE FOR ALL AMS AT 3:30 P.M. TODAY PASSED Y20 N19 A1 #2660",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-16",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "0efbea0e-7f58-11f1-8cb7-3258ed82ccdb",
+  "bill_action": null,
+  "bill_identifier": "HB193",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 20
+    },
+    {
+      "option": "no",
+      "value": 19
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB193&Page=02660#2660",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

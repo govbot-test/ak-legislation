@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "(H) READ THE FIRST TIME - REFERRALS",
+    "occurred_at": "2026-04-13",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-1"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SCR19",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SCR19#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR19"
+}

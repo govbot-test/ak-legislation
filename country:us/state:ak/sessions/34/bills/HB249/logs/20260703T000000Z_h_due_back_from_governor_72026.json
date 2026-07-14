@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(H) DUE BACK FROM GOVERNOR 7/20/26",
+    "occurred_at": "2026-07-03",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB249",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB249#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB249"
+}

@@ -216,6 +216,16 @@
       }
     },
     {
+      "description": "(S) Minutes (SJUD)",
+      "date": "2025-03-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:27Z"
+      }
+    },
+    {
       "description": "(S) JUD RPT CS 2NR 1DP 2DNP SAME TITLE",
       "date": "2025-03-24",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -608,7 +618,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:00Z",
+    "logs_latest_update": "2026-07-14T13:55:27Z",
     "text_extraction_latest_update": "2026-07-13T06:41:50.254045Z"
   }
 }

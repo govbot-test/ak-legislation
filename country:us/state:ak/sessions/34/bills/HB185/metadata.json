@@ -76,6 +76,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HHSS)",
+      "date": "2025-05-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:26Z"
+      }
+    },
+    {
       "description": "(H) HEALTH & SOCIAL SERVICES at 03:15 PM DAVIS 106",
       "date": "2025-05-15",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -331,7 +341,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:00Z",
+    "logs_latest_update": "2026-07-14T13:55:26Z",
     "text_extraction_latest_update": "2026-07-13T06:19:07.355054Z"
   }
 }

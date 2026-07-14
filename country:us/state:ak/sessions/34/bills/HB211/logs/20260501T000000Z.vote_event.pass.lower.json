@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y33 N4 E3 #2375",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-01",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "16543022-7f58-11f1-8cb7-3258ed82ccdb",
+  "bill_action": null,
+  "bill_identifier": "HB211",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 33
+    },
+    {
+      "option": "no",
+      "value": 4
+    },
+    {
+      "option": "other",
+      "value": 3
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB211&Page=02375#2375",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

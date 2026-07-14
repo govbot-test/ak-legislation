@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) AM NO 4 FAILED Y1 N37 E2 #\r\n                                                    2000",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-30",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "351662a0-7f58-11f1-8cb7-3258ed82ccdb",
+  "bill_action": null,
+  "bill_identifier": "HB280",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 1
+    },
+    {
+      "option": "no",
+      "value": 37
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB280&Page=02000#AM4",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

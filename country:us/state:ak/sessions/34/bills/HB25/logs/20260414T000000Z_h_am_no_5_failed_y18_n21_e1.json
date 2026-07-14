@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "(H) AM NO 5 FAILED Y18 N21 E1",
+    "occurred_at": "2026-04-14",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB25",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB25#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB25"
+}

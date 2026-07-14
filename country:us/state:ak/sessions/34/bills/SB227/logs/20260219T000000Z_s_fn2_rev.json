@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(S) FN2: (REV)",
+    "occurred_at": "2026-02-19",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB227",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB227#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB227"
+}

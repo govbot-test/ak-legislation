@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) DISCHARGE FROM FIN, RULE 48(D) PASSED Y25 N11 E4 #2461",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-08",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "f362de74-7f57-11f1-8cb7-3258ed82ccdb",
+  "bill_action": null,
+  "bill_identifier": "HB130",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 25
+    },
+    {
+      "option": "no",
+      "value": 11
+    },
+    {
+      "option": "other",
+      "value": 4
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB130&Page=02461#2461",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

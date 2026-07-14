@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(H) CRA RPT CS(CRA) 6DP 1AM",
+    "occurred_at": "2026-04-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB217",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB217#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB217"
+}

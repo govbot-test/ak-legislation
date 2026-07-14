@@ -158,6 +158,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HL&C)",
+      "date": "2025-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:26Z"
+      }
+    },
+    {
       "description": "(H) L&C RPT CS(L&C) 5DP 1NR 1AM",
       "date": "2025-03-28",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -515,7 +525,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:00Z",
+    "logs_latest_update": "2026-07-14T13:55:26Z",
     "text_extraction_latest_update": "2026-07-13T06:29:32.715435Z"
   }
 }

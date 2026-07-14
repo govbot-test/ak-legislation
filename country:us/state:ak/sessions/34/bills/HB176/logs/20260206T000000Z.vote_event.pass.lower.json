@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y36 N3 E1 #1571",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-06",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "073bf6d8-7f58-11f1-8cb7-3258ed82ccdb",
+  "bill_action": null,
+  "bill_identifier": "HB176",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 36
+    },
+    {
+      "option": "no",
+      "value": 3
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB176&Page=01571#1571",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

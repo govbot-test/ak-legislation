@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(H) TRB RPT 6DP",
+    "occurred_at": "2026-04-24",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB384",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB384#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB384"
+}

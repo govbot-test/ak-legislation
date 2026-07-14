@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(H) DP: FIELDS, GRAY, HALL, SADDLER, EISCHEID",
+    "occurred_at": "2026-03-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB363",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB363#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB363"
+}

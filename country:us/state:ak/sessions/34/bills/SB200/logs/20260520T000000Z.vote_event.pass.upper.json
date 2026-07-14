@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(S) CONCUR AM OF (H) Y15 N5 #2821",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-20",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "34",
+  "bill": "e8f52a9a-7f58-11f1-8cb7-3258ed82ccdb",
+  "bill_action": null,
+  "bill_identifier": "SB200",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 15
+    },
+    {
+      "option": "no",
+      "value": 5
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=SB200&Page=02821#2821",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

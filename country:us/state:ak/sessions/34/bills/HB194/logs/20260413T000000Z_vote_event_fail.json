@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) FAILED CONCUR (S) AM Y17 N23 #2135",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-13",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "0f9cfe30-7f58-11f1-8cb7-3258ed82ccdb",
+  "bill_action": null,
+  "bill_identifier": "HB194",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 17
+    },
+    {
+      "option": "no",
+      "value": 23
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB194&Page=02135#2135",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(S) STATE AFFAIRS at 03:30 PM BELTZ 105 (TSBldg)",
+    "occurred_at": "2026-05-07",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB204",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB204#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB204"
+}

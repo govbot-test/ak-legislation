@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) MOTION TO WITHDRAW FROM RULES, RULE 18, FAILED Y18 N21 E1 #1859",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-16",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "391afa3c-7f58-11f1-8cb7-3258ed82ccdb",
+  "bill_action": null,
+  "bill_identifier": "HB289",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 18
+    },
+    {
+      "option": "no",
+      "value": 21
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB289&Page=01859#1859",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

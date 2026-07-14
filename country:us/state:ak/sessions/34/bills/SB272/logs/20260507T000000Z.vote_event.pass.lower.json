@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y34 N6 #2444",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-07",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "073a9602-7f59-11f1-8cb7-3258ed82ccdb",
+  "bill_action": null,
+  "bill_identifier": "SB272",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 34
+    },
+    {
+      "option": "no",
+      "value": 6
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=SB272&Page=02444#2444",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

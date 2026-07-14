@@ -539,6 +539,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HFIN)",
+      "date": "2025-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:25Z"
+      }
+    },
+    {
       "description": "(S) TRANSMITTED TO (H)",
       "date": "2025-04-23",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -663,6 +673,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HFIN)",
+      "date": "2025-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:25Z"
+      }
+    },
+    {
       "description": "(H) FINANCE at 01:30 PM ADAMS 519",
       "date": "2025-05-01",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -740,6 +760,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:02:00Z"
+      }
+    },
+    {
+      "description": "(H) Minutes (HFIN)",
+      "date": "2025-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:25Z"
       }
     },
     {
@@ -874,6 +904,16 @@
     },
     {
       "description": "(H) Scheduled but Not Heard -- Please Note Time Change --",
+      "date": "2025-05-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:00Z"
+      }
+    },
+    {
+      "description": "(H) Minutes (HFIN)",
       "date": "2025-05-08",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
@@ -1471,6 +1511,21 @@
   ],
   "documents": [
     {
+      "note": "OMB SB57 Capital FY25 & FY26 Veto Summary",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=8743",
+          "media_type": "pdf"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=8693",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "SB 57 2025 05 07 AkH&LA ATIA Letter",
       "links": [
         {
@@ -1776,7 +1831,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:00Z",
+    "logs_latest_update": "2026-07-14T13:55:25Z",
     "text_extraction_latest_update": "2026-07-13T06:21:25.879288Z"
   }
 }

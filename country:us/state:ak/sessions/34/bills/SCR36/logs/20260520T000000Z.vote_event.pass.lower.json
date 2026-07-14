@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y39 N1 #3003",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-20",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "1bc704b6-7f59-11f1-8cb7-3258ed82ccdb",
+  "bill_action": null,
+  "bill_identifier": "SCR36",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 39
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=SCR36&Page=03003#3003",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(H) Moved HCS SJR 29(FIN) Out of Committee",
+    "occurred_at": "2026-05-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SJR29",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SJR29#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR29"
+}

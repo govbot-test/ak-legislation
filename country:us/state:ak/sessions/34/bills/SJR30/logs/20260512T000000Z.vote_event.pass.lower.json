@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y40 #2516",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-12",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "2ada0f2a-7f59-11f1-8cb7-3258ed82ccdb",
+  "bill_action": null,
+  "bill_identifier": "SJR30",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 40
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=SJR30&Page=02516#2516",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

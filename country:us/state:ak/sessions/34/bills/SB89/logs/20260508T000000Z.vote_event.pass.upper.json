@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(S) CONCUR AM OF (H) Y18 N- E1 A1 #2535",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-08",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "34",
+  "bill": "b3b04ef0-7f58-11f1-8cb7-3258ed82ccdb",
+  "bill_action": null,
+  "bill_identifier": "SB89",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 18
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=SB89&Page=02535#2535",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

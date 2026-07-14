@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) FAILED TO ADOPT FIN HCS Y16 N23 A1 #2928",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-19",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "dd301792-7f58-11f1-8cb7-3258ed82ccdb",
+  "bill_action": null,
+  "bill_identifier": "SB174",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 16
+    },
+    {
+      "option": "no",
+      "value": 23
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=SB174&Page=02928#2928",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

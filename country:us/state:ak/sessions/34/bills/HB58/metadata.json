@@ -204,6 +204,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HSTA)",
+      "date": "2025-03-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:25Z"
+      }
+    },
+    {
       "description": "(H) STATE AFFAIRS at 01:00 PM GRUENBERG 120",
       "date": "2025-03-29",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -224,6 +234,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HSTA)",
+      "date": "2025-03-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:25Z"
+      }
+    },
+    {
       "description": "(H) STATE AFFAIRS at 03:15 PM GRUENBERG 120",
       "date": "2025-04-08",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -241,6 +261,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:02:01Z"
+      }
+    },
+    {
+      "description": "(H) Minutes (HSTA)",
+      "date": "2025-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:25Z"
       }
     },
     {
@@ -546,6 +576,16 @@
       }
     },
     {
+      "description": "(S) Minutes (SJUD)",
+      "date": "2025-05-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:25Z"
+      }
+    },
+    {
       "description": "(S) JUD RPT 1DP 4NR",
       "date": "2025-05-17",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -658,6 +698,21 @@
       "links": [
         {
           "url": "http://www.akleg.gov/basis/get_documents.asp?session=34&docid=8102",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB 316 Research - HB 58 (ch. 26 SLA 1997)",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=12705",
+          "media_type": "pdf"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=11190",
           "media_type": "pdf"
         }
       ],
@@ -886,7 +941,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:01Z",
+    "logs_latest_update": "2026-07-14T13:55:25Z",
     "text_extraction_latest_update": "2026-07-13T06:14:19.223322Z"
   }
 }

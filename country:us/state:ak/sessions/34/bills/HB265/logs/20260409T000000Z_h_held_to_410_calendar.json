@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(H) HELD TO 4/10 CALENDAR",
+    "occurred_at": "2026-04-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB265",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB265#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB265"
+}

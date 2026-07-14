@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(S) EDC RPT CS 4NR 1DP SAME TITLE",
+    "occurred_at": "2026-04-10",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB204",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB204#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB204"
+}

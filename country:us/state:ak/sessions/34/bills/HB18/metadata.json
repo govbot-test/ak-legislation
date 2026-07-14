@@ -106,14 +106,32 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:02:00Z"
       }
+    },
+    {
+      "description": "(H) PRIME SPONSOR CHANGED: G.NELSON REPLACED RAUSCHER",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:27Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Rauscher",
+      "name": "G.Nelson",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"G.Nelson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rauscher",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Rauscher\"}",
       "organization_id": null
     },
@@ -231,7 +249,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:00Z",
+    "logs_latest_update": "2026-07-14T13:55:27Z",
     "text_extraction_latest_update": "2026-07-13T06:19:03.344079Z"
   }
 }

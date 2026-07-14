@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(H) TITLE CHANGE: HCR 17",
+    "occurred_at": "2026-05-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB86",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB86#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB86"
+}

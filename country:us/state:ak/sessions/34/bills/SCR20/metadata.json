@@ -1,0 +1,105 @@
+{
+  "legislative_session": "34",
+  "identifier": "SCR20",
+  "title": "Suspending Rules 24(c), 35, 41(b), and 42(e), Uniform Rules of the Alaska State Legislature, concerning House Bill No. 47, relating to distribution of a forged digital likeness; relating to crime and criminal procedure; relating to distribution of a generated sexual depiction; relating to generated obscene child sexual abuse material; relating to teaching certificates; relating to licensing of school bus drivers; relating to civil penalties for an organization that facilitates the generation of child sexual abuse material; and relating to social media and minors.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [
+    "ADVERTISING",
+    "ANTI-TRUST",
+    "ATTORNEY GENERAL",
+    "BUSINESS",
+    "CIVIL PROCEDURE",
+    "CONSUMER AFFAIRS",
+    "COURTS",
+    "CRIMES",
+    "CRIMINAL PROCEDURE",
+    "DATA PROCESSING",
+    "EMPLOYMENT",
+    "FAMILIES",
+    "HEARINGS",
+    "JUDGES",
+    "LAW ENFORCEMENT",
+    "MINORS",
+    "PRIVACY",
+    "PUBLIC SAFETY",
+    "REGULATIONS",
+    "SAFETY",
+    "SCIENCE & TECHNOLOGY",
+    "TRADE PRACTICES",
+    "UNIFORM RULES"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ak-34-scr20"
+    }
+  ],
+  "actions": [
+    {
+      "description": "(S) READ THE FIRST TIME - HELD ON SECY'S DESK",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:27Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Senate Community & Regional Affairs",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"chamber\": \"upper\", \"name\": \"Senate Community & Regional Affairs\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SCR 20",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/Bill/Text/34?Hsid=SCR020A",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.akleg.gov/PDF/34/Bills/SCR020A.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SCR20",
+      "note": ""
+    },
+    {
+      "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SCR20#tab5_4",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ak/government",
+    "name": "Alaska",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ak"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:55:27Z"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(S) RETURN TO SECOND FOR AMS UC",
+    "occurred_at": "2026-03-11",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB289",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB289#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB289"
+}

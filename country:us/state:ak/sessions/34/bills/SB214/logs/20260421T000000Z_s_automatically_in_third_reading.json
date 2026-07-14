@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "(S) AUTOMATICALLY IN THIRD READING",
+    "occurred_at": "2026-04-21",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB214",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB214#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB214"
+}

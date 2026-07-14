@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(S) RETURN TO (H), TRANSMIT TO GOV NEXT",
+    "occurred_at": "2026-05-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HJR32",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HJR32#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR32"
+}

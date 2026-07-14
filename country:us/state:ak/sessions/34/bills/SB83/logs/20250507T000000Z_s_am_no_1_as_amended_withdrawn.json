@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(S) AM NO 1 AS AMENDED WITHDRAWN",
+    "occurred_at": "2025-05-07",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB83",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB83#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB83"
+}

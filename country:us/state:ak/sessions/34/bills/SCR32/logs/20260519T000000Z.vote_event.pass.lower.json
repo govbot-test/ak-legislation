@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y40 #2943",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-19",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "1ad977dc-7f59-11f1-8cb7-3258ed82ccdb",
+  "bill_action": null,
+  "bill_identifier": "SCR32",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 40
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=SCR32&Page=02943#2943",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

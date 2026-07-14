@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(S) FAILED PASSAGE Y12 N7 A1 #2060",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-25",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "34",
+  "bill": "162e7d0e-7f59-11f1-8cb7-3258ed82ccdb",
+  "bill_action": null,
+  "bill_identifier": "SCR15",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 12
+    },
+    {
+      "option": "no",
+      "value": 7
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=SCR15&Page=02060#2060",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

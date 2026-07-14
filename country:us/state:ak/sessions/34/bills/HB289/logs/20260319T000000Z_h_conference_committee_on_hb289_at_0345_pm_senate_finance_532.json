@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(H) CONFERENCE COMMITTEE ON HB289 at 03:45 PM SENATE FINANCE 532",
+    "occurred_at": "2026-03-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB289",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB289#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB289"
+}

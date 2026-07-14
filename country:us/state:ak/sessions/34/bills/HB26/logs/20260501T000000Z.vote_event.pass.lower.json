@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) CONCUR AM OF (S) Y22 N14 E4 #2380",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-01",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "b57f6424-7f57-11f1-8cb7-3258ed82ccdb",
+  "bill_action": null,
+  "bill_identifier": "HB26",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 22
+    },
+    {
+      "option": "no",
+      "value": 14
+    },
+    {
+      "option": "other",
+      "value": 4
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB26&Page=02380#2380",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

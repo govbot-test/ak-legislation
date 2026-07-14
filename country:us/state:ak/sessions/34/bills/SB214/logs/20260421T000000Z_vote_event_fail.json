@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(S) AM NO 2 FAILED Y6 N12 E1 A1 #\r\n                                                    2307",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-21",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "34",
+  "bill": "f01c9628-7f58-11f1-8cb7-3258ed82ccdb",
+  "bill_action": null,
+  "bill_identifier": "SB214",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 12
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=SB214&Page=02307#AM2",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

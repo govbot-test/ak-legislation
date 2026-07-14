@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "(H) TRANSMITTED TO (S)",
+    "occurred_at": "2026-05-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HJR46",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HJR46#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR46"
+}

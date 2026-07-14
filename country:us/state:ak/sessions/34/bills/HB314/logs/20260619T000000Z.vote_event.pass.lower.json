@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) GOVERNOR VETO OVERRIDDEN Y45 N15 #3104",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-06-19",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "430d6d5e-7f58-11f1-8cb7-3258ed82ccdb",
+  "bill_action": null,
+  "bill_identifier": "HB314",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 45
+    },
+    {
+      "option": "no",
+      "value": 15
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB314&Page=03104#3104",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

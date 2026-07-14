@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y23 N15 E2 #1750",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-27",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "0aacdf26-7f58-11f1-8cb7-3258ed82ccdb",
+  "bill_action": null,
+  "bill_identifier": "HB184",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 23
+    },
+    {
+      "option": "no",
+      "value": 15
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB184&Page=01750#1750",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

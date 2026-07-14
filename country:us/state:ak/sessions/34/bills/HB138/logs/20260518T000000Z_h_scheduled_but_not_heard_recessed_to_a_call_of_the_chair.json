@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(H) Scheduled but Not Heard -- Recessed to a Call of the Chair --",
+    "occurred_at": "2026-05-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB138",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB138#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB138"
+}

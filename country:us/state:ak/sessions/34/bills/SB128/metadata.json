@@ -81,6 +81,16 @@
       }
     },
     {
+      "description": "(S) Minutes (SRES)",
+      "date": "2025-03-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:25Z"
+      }
+    },
+    {
       "description": "(S) RESOURCES at 03:30 PM BUTROVICH 205",
       "date": "2025-04-04",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -138,17 +148,37 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:02:00Z"
+      }
+    },
+    {
+      "description": "(S) PRIME SPONSOR CHANGED - SENATE RESOURCES COMMITTEE REPLACED",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:25Z"
+      }
+    },
+    {
+      "description": "(S) SENATE RULES COMMITTEE",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:25Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Senate Rules",
+      "name": "Senate Resources",
       "classification": "primary",
       "entity_type": "organization",
       "primary": true,
       "person_id": null,
-      "organization_id": "~{\"chamber\": \"upper\", \"name\": \"Senate Rules\"}"
+      "organization_id": "~{\"chamber\": \"upper\", \"name\": \"Senate Resources\"}"
     }
   ],
   "related_bills": [],
@@ -348,7 +378,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:00Z",
+    "logs_latest_update": "2026-07-14T13:55:25Z",
     "text_extraction_latest_update": "2026-07-13T06:29:03.104410Z"
   }
 }

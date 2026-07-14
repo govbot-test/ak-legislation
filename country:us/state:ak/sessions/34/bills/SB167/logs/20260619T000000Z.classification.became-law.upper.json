@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "(S) EFFECTIVE DATE(S) OF LAW 9/16/26",
+    "occurred_at": "2026-06-19",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB167",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB167#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB167"
+}

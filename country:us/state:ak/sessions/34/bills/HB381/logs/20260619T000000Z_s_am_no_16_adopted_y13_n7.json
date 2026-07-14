@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "(S) AM NO 16 ADOPTED Y13 N7",
+    "occurred_at": "2026-06-19",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB381",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB381#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB381"
+}

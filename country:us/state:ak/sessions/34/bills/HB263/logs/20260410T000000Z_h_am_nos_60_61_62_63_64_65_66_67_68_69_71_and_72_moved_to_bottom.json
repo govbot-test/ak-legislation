@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(H) AM NOS 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 71, AND 72 MOVED TO BOTTOM",
+    "occurred_at": "2026-04-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB263",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB263#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB263"
+}

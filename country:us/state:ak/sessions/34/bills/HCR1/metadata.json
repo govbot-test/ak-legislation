@@ -107,6 +107,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HFSH)",
+      "date": "2025-04-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:26Z"
+      }
+    },
+    {
       "description": "(H) FISHERIES at 10:00 AM GRUENBERG 120",
       "date": "2025-04-29",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -611,7 +621,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:01Z",
+    "logs_latest_update": "2026-07-14T13:55:26Z",
     "text_extraction_latest_update": "2026-07-13T06:34:08.037505Z"
   }
 }

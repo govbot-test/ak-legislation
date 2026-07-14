@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(S) Moved SCS CSHB 217(TRA) Out of Committee -- Please Note Time Change --",
+    "occurred_at": "2026-05-12",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB217",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB217#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB217"
+}

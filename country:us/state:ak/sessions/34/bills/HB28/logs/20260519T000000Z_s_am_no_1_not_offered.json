@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(S) AM NO 1 NOT OFFERED",
+    "occurred_at": "2026-05-19",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB28",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB28#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB28"
+}

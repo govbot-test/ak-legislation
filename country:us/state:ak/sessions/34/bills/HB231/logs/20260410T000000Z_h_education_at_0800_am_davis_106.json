@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(H) EDUCATION at 08:00 AM DAVIS 106",
+    "occurred_at": "2026-04-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB231",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB231#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB231"
+}

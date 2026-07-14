@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "(H) AM NO 21 TAKE FROM TABLE FAILED Y19 N21",
+    "occurred_at": "2026-05-14",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB214",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB214#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB214"
+}

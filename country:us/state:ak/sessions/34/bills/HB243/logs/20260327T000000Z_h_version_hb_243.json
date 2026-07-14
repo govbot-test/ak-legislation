@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(H) VERSION: HB 243",
+    "occurred_at": "2026-03-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB243",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB243#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB243"
+}

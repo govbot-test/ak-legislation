@@ -126,6 +126,16 @@
       }
     },
     {
+      "description": "(S) Minutes (SRES)",
+      "date": "2025-05-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:27Z"
+      }
+    },
+    {
       "description": "(S) RES RPT CS 3NR 2DP SAME TITLE",
       "date": "2025-05-07",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -318,7 +328,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:01Z",
+    "logs_latest_update": "2026-07-14T13:55:27Z",
     "text_extraction_latest_update": "2026-07-13T06:30:20.581034Z"
   }
 }

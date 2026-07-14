@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(H) LABOR & COMMERCE at 03:15 PM BARNES 124",
+    "occurred_at": "2026-04-15",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB302",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB302#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB302"
+}

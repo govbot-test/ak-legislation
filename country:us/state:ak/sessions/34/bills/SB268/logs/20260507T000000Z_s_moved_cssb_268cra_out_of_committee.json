@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(S) Moved CSSB 268(CRA) Out of Committee",
+    "occurred_at": "2026-05-07",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB268",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB268#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB268"
+}

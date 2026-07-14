@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(S) EFFECTIVE DATE(S) ADOPTED Y19 N1 #2840",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-20",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "34",
+  "bill": "e9419336-7f57-11f1-8cb7-3258ed82ccdb",
+  "bill_action": null,
+  "bill_identifier": "HB110",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 19
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=HB110&Page=02840#2840",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

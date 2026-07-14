@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(S) RESOURCES at 09:00 AM BUTROVICH 205",
+    "occurred_at": "2026-04-30",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB280",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB280#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB280"
+}

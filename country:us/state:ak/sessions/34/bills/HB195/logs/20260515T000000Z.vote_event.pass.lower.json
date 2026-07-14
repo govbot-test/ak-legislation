@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y32 N8 #2615",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-15",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "1065379c-7f58-11f1-8cb7-3258ed82ccdb",
+  "bill_action": null,
+  "bill_identifier": "HB195",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 32
+    },
+    {
+      "option": "no",
+      "value": 8
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB195&Page=02615#2615",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

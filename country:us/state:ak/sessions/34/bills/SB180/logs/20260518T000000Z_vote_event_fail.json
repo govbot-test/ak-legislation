@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) AM 8 TO AM 2 FAILED Y14 N26 #2809",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-18",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "e0288632-7f58-11f1-8cb7-3258ed82ccdb",
+  "bill_action": null,
+  "bill_identifier": "SB180",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 14
+    },
+    {
+      "option": "no",
+      "value": 26
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=SB180&Page=02809#2809",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

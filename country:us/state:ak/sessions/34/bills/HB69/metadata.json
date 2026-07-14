@@ -392,6 +392,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HFIN)",
+      "date": "2025-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:27Z"
+      }
+    },
+    {
       "description": "(H) FINANCE at 01:30 PM ADAMS 519",
       "date": "2025-02-20",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -1642,6 +1652,16 @@
       }
     },
     {
+      "description": "(S) Minutes (SEDC)",
+      "date": "2025-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:27Z"
+      }
+    },
+    {
       "description": "(S) EDUCATION at 03:30 PM BELTZ 105 (TSBldg)",
       "date": "2025-03-21",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -1692,6 +1712,16 @@
       }
     },
     {
+      "description": "(S) Minutes (SEDC)",
+      "date": "2025-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:27Z"
+      }
+    },
+    {
       "description": "(S) EDUCATION at 03:30 PM BELTZ 105 (TSBldg)",
       "date": "2025-03-26",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -1712,6 +1742,16 @@
       }
     },
     {
+      "description": "(S) Minutes (SEDC)",
+      "date": "2025-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:27Z"
+      }
+    },
+    {
       "description": "(S) EDUCATION at 03:30 PM BELTZ 105 (TSBldg)",
       "date": "2025-04-02",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -1729,6 +1769,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:02:00Z"
+      }
+    },
+    {
+      "description": "(S) Minutes (SEDC)",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:27Z"
       }
     },
     {
@@ -1929,6 +1979,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:02:00Z"
+      }
+    },
+    {
+      "description": "(S) RULES TO CALENDAR 4/10/2025",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:55:27Z"
       }
     },
     {
@@ -3589,7 +3649,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:00Z",
+    "logs_latest_update": "2026-07-14T13:55:27Z",
     "text_extraction_latest_update": "2026-07-13T06:19:01.429842Z"
   }
 }

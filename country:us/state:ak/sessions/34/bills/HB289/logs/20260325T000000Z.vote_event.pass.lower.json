@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) CC REPORT ADOPTED Y40  CCS HB 289 #1959",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-25",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "391afa3c-7f58-11f1-8cb7-3258ed82ccdb",
+  "bill_action": null,
+  "bill_identifier": "HB289",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 40
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB289&Page=01959#1959",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

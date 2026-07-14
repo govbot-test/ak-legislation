@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "(H) READ THE THIRD TIME CSHB 278(STA)",
+    "occurred_at": "2026-03-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB278",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB278#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB278"
+}

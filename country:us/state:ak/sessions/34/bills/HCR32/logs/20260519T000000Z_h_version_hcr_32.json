@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "(H) VERSION: HCR 32",
+    "occurred_at": "2026-05-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HCR32",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HCR32#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR32"
+}
