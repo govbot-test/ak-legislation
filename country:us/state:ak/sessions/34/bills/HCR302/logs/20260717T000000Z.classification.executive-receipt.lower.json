@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "(H) 9:20 A.M. 7/17/26 Transmitted to Governor",
+    "occurred_at": "2026-07-17",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "34",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HCR302",
+        "note": ""
+      },
+      {
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HCR302#tab5_4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR302"
+}

@@ -130,13 +130,25 @@
       }
     },
     {
-      "description": "(H) AWAITING TRANSMITTAL TO GOV",
-      "date": "2026-07-03",
+      "description": "(H) 9:20 A.M. 7/17/26 Transmitted to Governor",
+      "date": "2026-07-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:47:22Z"
+      }
+    },
+    {
+      "description": "(H) LEGISLATIVE RESOLVE 73",
+      "date": "2026-07-17",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-14T13:55:26Z"
+        "log_file_created": "2026-07-21T07:47:22Z"
       }
     }
   ],
@@ -203,7 +215,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-14T13:55:26Z",
+    "logs_latest_update": "2026-07-21T07:47:22Z",
     "text_extraction_latest_update": "2026-07-14T20:26:06.052393Z"
   }
 }

@@ -2172,6 +2172,248 @@
       "_processing": {
         "log_file_created": "2026-07-14T13:55:25Z"
       }
+    },
+    {
+      "description": "(H) CONFERENCE COMMITTEE ON HB381 at 04:00 PM SENATE FINANCE 532",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:47:22Z"
+      }
+    },
+    {
+      "description": "(H) -- MEETING CANCELED --",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:47:22Z"
+      }
+    },
+    {
+      "description": "(S) CONFERENCE COMMITTEE ON HB381 at 04:00 PM SENATE FINANCE 532",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:47:22Z"
+      }
+    },
+    {
+      "description": "(S) -- Rescheduled to 07/16/2026 --",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:47:22Z"
+      }
+    },
+    {
+      "description": "(S) LIMITED POWERS FREE CONFERENCE GRANTED",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:47:22Z"
+      }
+    },
+    {
+      "description": "(S) CC REPORT: CCS HB 381 RECEIVED 11:39 AM",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:47:22Z"
+      }
+    },
+    {
+      "description": "(S) FN5: (CED)",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:47:22Z"
+      }
+    },
+    {
+      "description": "(S) FN6: (CED)",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:47:22Z"
+      }
+    },
+    {
+      "description": "(S) FN7: (REV)",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:47:22Z"
+      }
+    },
+    {
+      "description": "(S) CC REPORT READ AND TAKEN UP",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:47:22Z"
+      }
+    },
+    {
+      "description": "(S) CC RPT ADPTD Y11 N8 E1 CCS HB 381",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:47:22Z"
+      }
+    },
+    {
+      "description": "(S) EFFECTIVE DATE(S) ADOPTED Y19 N- E1",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:47:22Z"
+      }
+    },
+    {
+      "description": "(H) LIMITED POWERS FREE CONFERENCE GRANTED",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:47:22Z"
+      }
+    },
+    {
+      "description": "(H) CC REPORT: CCS HB 381 RECEIVED 7/16/26",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:47:22Z"
+      }
+    },
+    {
+      "description": "(H) FN5: (CED)",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:47:22Z"
+      }
+    },
+    {
+      "description": "(H) FN6: (CED)",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:47:22Z"
+      }
+    },
+    {
+      "description": "(H) FN7: (REV)",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:47:22Z"
+      }
+    },
+    {
+      "description": "(H) CC REPORT READ AND TAKEN UP",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:47:22Z"
+      }
+    },
+    {
+      "description": "(H) CC REPORT FAILED Y19 N19 E2",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:47:22Z"
+      }
+    },
+    {
+      "description": "(H) VERSION: CCS HB 381(FLD H)",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:47:22Z"
+      }
+    },
+    {
+      "description": "(H) CONFERENCE COMMITTEE ON HB381 at 08:00 AM SENATE FINANCE 532",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:47:22Z"
+      }
+    },
+    {
+      "description": "(H) Moved CCS HB 381 Out of Committee",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:47:22Z"
+      }
+    },
+    {
+      "description": "(S) CONFERENCE COMMITTEE ON HB381 at 08:00 AM SENATE FINANCE 532",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:47:22Z"
+      }
+    },
+    {
+      "description": "(S) Moved CCS HB 381 Out of Committee -- Rescheduled from 07/15/2026 --",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:47:22Z"
+      }
     }
   ],
   "sponsorships": [
@@ -2275,9 +2517,94 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "CCS HB 381",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/Bill/Text/34?Hsid=HB0381G",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.akleg.gov/PDF/34/Bills/HB0381G.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "CCS HB 381(fld H)",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/Bill/Text/34?Hsid=HB0381H",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.akleg.gov/PDF/34/Bills/HB0381H.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "CCS2 HB381 Ver.E",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=16747",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "CCS2 HB381 Redline, Ver Q. to E.",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=16746",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "CCS2 HB381 - Summary of Changes 7.16.26",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=16745",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "CCS2 HB381 - Sectional Analysis 7.16.26",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=16744",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "CCS2 HB381 - Legal Memo - Conference Committee Powers",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=16743",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "DOR Response to HB 381 Conference Committee 06.27.2026",
       "links": [
@@ -3425,7 +3752,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-14T13:55:25Z",
+    "logs_latest_update": "2026-07-21T07:47:22Z",
     "text_extraction_latest_update": "2026-07-14T20:23:23.485238Z"
   }
 }

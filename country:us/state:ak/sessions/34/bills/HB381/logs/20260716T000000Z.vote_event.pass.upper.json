@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(S) CC RPT ADPTD Y11 N8 E1  CCS HB 381 #3184",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-07-16",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "34",
+  "bill": "2a9bc876-84ce-11f1-9e1f-7eddf912ecb6",
+  "bill_action": null,
+  "bill_identifier": "HB381",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 11
+    },
+    {
+      "option": "no",
+      "value": 8
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=HB381&Page=03184#3184",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

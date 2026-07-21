@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) CC REPORT FAILED Y19 N19 E2 #3182",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-07-16",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "2a9bc876-84ce-11f1-9e1f-7eddf912ecb6",
+  "bill_action": null,
+  "bill_identifier": "HB381",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 19
+    },
+    {
+      "option": "no",
+      "value": 19
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB381&Page=03182#3182",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}
